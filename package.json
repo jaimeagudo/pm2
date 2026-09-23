@@ -170,7 +170,7 @@
     "pm2-multimeter": "0.1.2",
     "pmx": "^1.0.1",
     "semver": "^5.2",
-    "shelljs": "0.7.5",
+    "shelljs": "0.8.5",
     "source-map-support": "^0.4.6",
     "vizion": "^0.2",
     "yamljs": "0.2.8"
